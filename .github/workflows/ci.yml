@@ -1,0 +1,11 @@
+name: CI Check
+
+on: [push]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Visa meddelande
+      run: echo \"Hejj Hümeyra häär, vem e som migg?!!\"
