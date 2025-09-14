@@ -1,0 +1,11 @@
+
+Innan kursen så visste jag inte så mycket om mjukvaruutveckling, jag tänkte mer att handlade bara om att man utvecklar programvara från dator eller mobiltelefoner ex. spel, webb, appar o systemet genom kod såklart. Men under kursen så lärde mig att det är mer än så exempelvis design, testa sig fram för att se om allt fungerar som det ska, driftsättning samt underhåll.
+
+DevOps är samarbetet mellan utvecklaren och drift det säkerställer att slutprodukten levereras på ett bra sätt där båda parter är nöjda. Skulle nog förklara det som att bygga och testa på en och samma gång där man använder sig mycket av automatisering
+
+Molnet är en spännande teknik att kunna utforska, det låter en slippa tänka på att ta med sig alla hårddiskar och även sin dator för att du kan komma fram till allt du behöver med molnen och så slipper du också tänka på hårdvaran för att det finns molntjänster där du kan använda starkare komponenter från större servrar. Det som är svårt med det är dom olika begreppen och vad dom används för sen även hur man skyddar det datan som finns där
+
+Det innebär att man sammarbetar för att kunna uppnå deadlines och lära sig från varandra. Tillsammans kan man dela upp vem i gruppen ska göra vad och bolla med ideer.
+
+Det som jag har tyckt har varit intressant är hur brett det egentligen är, inte bara att koda utan att kunna veta mer om hur backend o frontend är, att man kan hålla på mer fler grejer istället för bara en sak. 
+
