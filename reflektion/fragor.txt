@@ -1,0 +1,15 @@
+Vad är skillnaden mellan IaaS, PaaS och SaaS?
+Iaas står för Infrastructure as a Service, du ansvarar för lagringen, nätverk och servrar samt applikationer. 
+Paas står för Platform as a Service, detta är smidigare och enklare, du slipper tänka på OS, servrar och infrastruktur. Detta är bra för dig som endast vill fokusera på själva koden och datan utan att hantera systemadministrationen.
+Saas står för Software as a Service, Saas är redan en klar applikation i mjukvaran, exempelvis du ska ladda ner fortnite och den är redan klar för dig att spela.
+Vad gör Git och vad är GitHub?
+Git är ett verktyg som hjälper dig hålla koll på olika versioner av din kod och samarbeta med andra. GitHub är en webbplats där du kan lägga upp dina Git-projekt och jobba tillsammans med andra på samma kod.
+Vad är ett informationssystem?
+Informationssystem omfattar människor, maskiner och/eller metoder organiserade för att samla in, bearbeta, överföra och sprida data och information. 
+Vad är CIA-triaden?
+C- står för: Confidentiality Det handlar om att skydda information från personer som ej ska ha det. 
+I - står för: Integrity Det betyder att informationen ska vara korrekt och oförändrad och att det kan ej manipuleras eller förstöras och. 
+A - står för: Availability informationen ska finnas för att användas (tillänglig) när man behöver det.
+Vad är Continuous Integration (CI)?
+Continuous Integration handlar om att ofta och automatiskt samla ihop och testa 
+kodändringar, så att allt fungerar bra tillsammans hela tiden.
